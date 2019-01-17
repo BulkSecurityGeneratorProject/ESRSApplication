@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ESRSApplication",
+    "packageName": "com.dellemc.iot.provisioning.model",
+    "packageFolder": "com/dellemc/iot/provisioning/model",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "YzkwODA2MGRkNzFmMzJiY2Y0YjMxMWZmZTQ2ZDUzODNhYzQxOGNjNzIzNzYwZGQzNjY1OTIxYTM1NjBhM2YwN2ZjM2U0NDViMmI0ODg1YzJmNDdiMGY5Yjg3ZjM4MmUwYzJkZDc0Zjk2MDM5ZjdlMGE3MjRhYjU1NTFiNzgwZTc=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "aswathamkumari",
+  "repository-name": "ESRSApplication"
+}
